@@ -218,7 +218,7 @@ body {
 
   position: relative;
 
-  margin-bottom: 0;
+  
 }
 
 .opaque-overlay {
@@ -230,7 +230,14 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+.monthly h3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .monthly-container {
   color: #fff;
   font-weight: bold;
 }
+
+
